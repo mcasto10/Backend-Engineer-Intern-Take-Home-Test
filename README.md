@@ -12,9 +12,7 @@
  * as a parameter. The parsed result will be a Map<String, Object> representing the JSON structure.
  *
  * Example Usage:
- * ```
  * String jsonString = "{ \"key\": \"value\", \"nested\": { \"innerKey\": 42 } }";
  * Map<String, Object> parsedResult = JSONParser.parse(jsonString);
  * System.out.println(parsedResult);
- * ```
- *
+ 
